@@ -1,0 +1,61 @@
+{
+  "santos": [
+    {
+      "nombre": "Pichulais",
+      "Constelacion": "Sagitario",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Andromeda",
+      "Constelacion": "Capricornio"
+    },
+    {
+      "id": 3,
+      "nombre": "Shoga",
+      "Constelacion": "Hercules :V"
+    },
+    {
+      "id": 4,
+      "nombre": "Ikki",
+      "Constelacion": "Dios Goku"
+    },
+    {
+      "id": 5,
+      "nombre": "Levi",
+      "Constelacion": "El pelado de bazzers"
+    },
+    {
+      "nombre": "Hola",
+      "Constelacion": "Pinta esto lptm",
+      "id": 6
+    },
+    {
+      "nombre": "No tiene que ser dasdas",
+      "Constelacion": "ponele",
+      "id": 7
+    }
+  ],
+  "dioses": [
+    {
+      "id": 1,
+      "nombre": "Ades",
+      "Constelacion": "No hay"
+    },
+    {
+      "id": 2,
+      "nombre": "Atenea",
+      "Constelacion": "No hay"
+    },
+    {
+      "id": 3,
+      "nombre": "Zeus",
+      "Constelacion": "No hay"
+    },
+    {
+      "id": 4,
+      "nombre": "Poseidon",
+      "Constelacion": "No hay"
+    }
+  ]
+}
